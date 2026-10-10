@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 2,
+  "sequence": 3,
   "target": "m5stack-tab5-p4",
   "layout": "tab5-16m-v1",
   "launcher_api": 1,
@@ -26,6 +26,17 @@
       "download_sha256": "8fe5d5a4674dd69ea385d7dba3f4e3f454ad9b078d542b99f73b2b9bf74f1386",
       "image_size": 644320,
       "image_sha256": "04d7e840c75e14305a6f93461c3d7a5ea26deee7a732e0e5550fa9d9ba1e340c"
+    },
+    {
+      "id": "ahh-watch",
+      "name": "ahh watch",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/c3z/tab5-store/main/roms/ahh-watch/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 651696,
+      "download_sha256": "70a656eea6bc0f9c8b81d64e0a1383a567d438c8789c125d4da183327f07241b",
+      "image_size": 651184,
+      "image_sha256": "f69bf9ca8a2f67bf7b26f02285b44e14076ca989341d9adeb8d562685724e32b"
     }
   ]
 }
