@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 3,
+  "sequence": 4,
   "target": "m5stack-tab5-p4",
   "layout": "tab5-16m-v1",
   "launcher_api": 1,
@@ -37,6 +37,17 @@
       "download_sha256": "70a656eea6bc0f9c8b81d64e0a1383a567d438c8789c125d4da183327f07241b",
       "image_size": 651184,
       "image_sha256": "f69bf9ca8a2f67bf7b26f02285b44e14076ca989341d9adeb8d562685724e32b"
+    },
+    {
+      "id": "c6-update",
+      "name": "Aktualizacja Wi-Fi C6",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/c3z/tab5-store/main/roms/c6-update/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 1484992,
+      "download_sha256": "123361d782acb19823a7dc060fba17bd8c0a6d5b697d0a26b51954f64851a0bf",
+      "image_size": 1484480,
+      "image_sha256": "4382980e405fae7d5d26791e9350e32334bd5473ce0cd439e102ae403512a62b"
     }
   ]
 }
