@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 1,
+  "sequence": 2,
   "target": "m5stack-tab5-p4",
   "layout": "tab5-16m-v1",
   "launcher_api": 1,
@@ -15,6 +15,17 @@
       "download_sha256": "0ebacb2ea8682aad68e3735e6d920d0f13913622abc1fed0aba6aaa3452c5cfa",
       "image_size": 614016,
       "image_sha256": "41c23a7b001c782eb9a9878636543292e02309a8109d1ae5891925f6bdca2bd1"
+    },
+    {
+      "id": "kocia-mysz",
+      "name": "Kocia Mysz",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/c3z/tab5-store/main/roms/kocia-mysz/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 644832,
+      "download_sha256": "8fe5d5a4674dd69ea385d7dba3f4e3f454ad9b078d542b99f73b2b9bf74f1386",
+      "image_size": 644320,
+      "image_sha256": "04d7e840c75e14305a6f93461c3d7a5ea26deee7a732e0e5550fa9d9ba1e340c"
     }
   ]
 }
